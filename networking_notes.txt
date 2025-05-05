@@ -1,0 +1,5 @@
+- Slow internet speed
+- Misconfigured subnet masks
+- DNS resolution failure
+- IP conflict issues
+- Firewall blocking port
